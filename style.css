@@ -25,7 +25,7 @@
 
 }
 
-/* RESET */
+
 
 * {
   margin: 0;
@@ -51,7 +51,7 @@ overflow-x: hidden;
 
 }
 
-/* BACKGROUND DECORATION */
+
 
 .background-shape {
 position: fixed;
@@ -86,7 +86,7 @@ bottom: -80px;
 left: 40%;
 }
 
-/* NAVBAR */
+
 
 .navbar {
 width: 92%;
@@ -144,7 +144,7 @@ background: linear-gradient(
 );
 
 border-radius: 10px;
-```
+
 
 }
 
@@ -174,7 +174,7 @@ nav a:hover,
 nav a.active {
 color: white;
 
-```
+
 background:
     linear-gradient(
         135deg,
@@ -183,11 +183,11 @@ background:
     );
 
 box-shadow: 0 8px 20px rgba(109, 40, 168, 0.25);
-```
+
 
 }
 
-/* COMMON SECTION */
+
 
 main {
 width: 100%;
@@ -215,7 +215,7 @@ overflow: hidden;
 
 }
 
-/* HERO */
+
 
 .hero {
 min-height: 850px;
@@ -240,7 +240,7 @@ background:
 
 }
 
-/* CENTERED INTRO */
+
 
 .hero-content {
 text-align: center;
@@ -365,7 +365,7 @@ font-weight: 600;
 
 }
 
-/* BUTTONS */
+
 
 .hero-buttons {
 display: flex;
@@ -430,7 +430,7 @@ border: 2px solid var(--lavender);
 transform: translateY(-4px);
 }
 
-/* HERO DETAILS */
+
 
 .hero-details {
 display: flex;
@@ -472,7 +472,7 @@ color: var(--text-light);
 
 }
 
-/* HERO VISUAL */
+
 
 .hero-visual {
 min-height: 500px;
@@ -586,7 +586,7 @@ margin-bottom: 5px;
 
 }
 
-/* ORBITS */
+
 
 .orbit {
 position: absolute;
@@ -621,7 +621,7 @@ transform: rotate(-35deg);
 
 }
 
-/* FLOATING CARDS */
+
 
 .floating-card {
 position: absolute;
@@ -665,7 +665,7 @@ left: 15px;
 color: var(--purple-bright);
 }
 
-/* SECTION HEADINGS */
+
 
 .section-heading {
 margin-bottom: 50px;
@@ -705,7 +705,7 @@ color: var(--purple-bright);
 font-style: normal;
 }
 
-/* ABOUT */
+
 
 .about {
 padding: 90px;
@@ -870,7 +870,7 @@ line-height: 1.7;
 
 }
 
-/* EDUCATION */
+
 
 .education {
 padding: 90px;
@@ -1273,7 +1273,7 @@ box-shadow:
 
 }
 
-/* FOOTER */
+
 
 footer {
 width: 92%;
@@ -1349,7 +1349,7 @@ color: #bdaacb;
 
 }
 
-/* RESPONSIVE */
+
 
 @media (max-width: 1000px) {
 
